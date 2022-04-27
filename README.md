@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @orodrigosouzadev
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning Javascript/Typescript / NodeJS / ReactJS / NextJS / Tests / Software Architecture
+- 💞️ I’m looking to collaborate on Full Stack Projects
+- 📫 How to reach me rodrigo@rodrigosouza.dev
